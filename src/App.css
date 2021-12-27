@@ -1,0 +1,12 @@
+*::after,
+*::before {
+ margin:0;
+}
+
+/* chrome safari and opera */
+::-webkit-scrollbar {
+  display:none;
+}
+body{
+  -ms-overflow-style:none;
+}

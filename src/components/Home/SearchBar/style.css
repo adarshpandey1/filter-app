@@ -1,0 +1,28 @@
+.searchBar-wrap{
+    display:flex;
+    align-items:center;
+    border-bottom: 1px solid rgba(0,0,0,0.26);
+    padding: 1rem 1rem;
+    background-color:black;
+}
+.searchBar-icon{
+    color:white;
+    margin-left:2rem;
+    margin-right:1rem;
+    margin-top:auto;
+}
+.searchBar-wrap input{
+        opacity:'1.2';
+        font-size:'0.95rem';
+        width: '100%';
+        margin-left: 'auto';
+        margin-right: 'auto';
+        color: 'white';
+        padding-bottom: 0;
+        margin-top: 0;
+        font-weight: 500;
+        border:'1px solid black';
+        padding-left:'15px';
+        padding-right:'5px'
+    
+}
